@@ -39,9 +39,6 @@ PIL
 OpenCV
 Usage
 
-**Clone Repository:**
-git clone https://github.com/chimateyogesh00-hub/MGLeaf-Disease.git
-
 **Install Dependencies:**
 pip install -r requirements.txt
 Train Model
